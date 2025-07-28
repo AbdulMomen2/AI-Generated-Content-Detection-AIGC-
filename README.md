@@ -1,1 +1,1 @@
-# AI-Generated-Content-Detection-AIGC-
+# AI-Generated-Content-Detection-AIGC
